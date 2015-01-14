@@ -1,3 +1,5 @@
+## Project Information
+
 ### Inventory
 
 This inventory app is the same as the version that is included in my repository called CAEWeb. I wanted to try to re-implement the server side portion of this app using a different language, so I re-wrote the API for this app using Java's Spring and Hibernate Frameworks. Because this is a whole web application, Spring MVC was used to make it a fully functional web application.
